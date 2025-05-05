@@ -20,6 +20,8 @@ This project includes the following components:
 2. **ETL Pipelines**: Extract, Transform, Load processes to move data from source systems into the data warehouse.  
 3. **Data Modeling**: Creation of fact and dimension tables for analytical workloads.  
 4. **Analytics & Reporting**: SQL-based reports and dashboards for business insights.
+5. **POWER BI REPORT** : created a live power bi report connect to sql server.
+
 
 ---
 
