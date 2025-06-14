@@ -22,7 +22,7 @@ This project includes the following components:
 2. **ETL Pipelines**: Extract, Transform, Load processes to move data from source systems into the data warehouse.  
 3. **Data Modeling**: Creation of fact and dimension tables for analytical workloads.  
 ---
-📌 Project Structure
+## Project Structure
 | Layer               | Description                                                              | Link                                                                                                              |
 | ------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | 🟫 **Bronze Layer** | Raw data ingestion from CSV files (ERP and CRM)                          | [Browse Scripts 🔗](https://github.com/divyanshpatel128/SQL-DATA-WAREHOUSE-PROJECTS/tree/main/scripts/bronzer%20) |
