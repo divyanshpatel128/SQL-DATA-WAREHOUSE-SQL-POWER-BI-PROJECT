@@ -23,6 +23,11 @@ This project includes the following components:
 3. **Data Modeling**: Creation of fact and dimension tables for analytical workloads.  
 ---
 📌 Project Structure
+| Layer               | Description                                                              | Link                                                                                                              |
+| ------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| 🟫 **Bronze Layer** | Raw data ingestion from CSV files (ERP and CRM)                          | [Browse Scripts 🔗](https://github.com/divyanshpatel128/SQL-DATA-WAREHOUSE-PROJECTS/tree/main/scripts/bronzer%20) |
+| ⚪ **Silver Layer**  | Cleansing, transformation, normalization, and business logic integration | [Browse Scripts 🔗](https://github.com/divyanshpatel128/SQL-DATA-WAREHOUSE-PROJECTS/tree/main/scripts/silver)     |
+| 🟨 **Gold Layer**   | Final reporting views using star schema for BI tools                     | [Browse Scripts 🔗](https://github.com/divyanshpatel128/SQL-DATA-WAREHOUSE-PROJECTS/tree/main/scripts/gold%20)    |
 
 
 ## 🎯 Skills Showcased
