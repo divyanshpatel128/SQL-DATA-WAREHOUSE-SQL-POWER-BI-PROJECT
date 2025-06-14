@@ -12,6 +12,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.  
 
 
+
+
 ## 📖 Project Overview
 
 This project includes the following components:
@@ -20,6 +22,8 @@ This project includes the following components:
 2. **ETL Pipelines**: Extract, Transform, Load processes to move data from source systems into the data warehouse.  
 3. **Data Modeling**: Creation of fact and dimension tables for analytical workloads.  
 ---
+📌 Project Structure
+
 
 ## 🎯 Skills Showcased
 
