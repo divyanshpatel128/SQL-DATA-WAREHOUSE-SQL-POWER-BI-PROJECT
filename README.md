@@ -2,6 +2,14 @@
 Welcome to the **Data Warehouse Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing  solution, from building a data warehouse to generating actionable insights.
 
+# POWER BI DASHBOARD
+
+![Screenshot 2025-06-15 171433](https://github.com/user-attachments/assets/488ed616-1722-46e2-8495-283085b35179)
+![Screenshot 2025-06-15 171448](https://github.com/user-attachments/assets/db1d030b-aef2-42c1-9b97-e3a4545d4b5f)
+
+![Screenshot 2025-06-15 171504](https://github.com/user-attachments/assets/b45a8503-5bfb-4cd4-bc45-eae18e6e870a)
+
+
 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
@@ -10,7 +18,6 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV files into SQL Server Database.  
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.  
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.  
-
 
 
 
